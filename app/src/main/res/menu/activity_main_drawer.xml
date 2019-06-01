@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="20 лет ЖЖ" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Политика и общество" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Вокруг света" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Кино" />
+
+        <item
+            android:id="@+id/nav_camera_2"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Наука и техника" />
+        <item
+            android:id="@+id/nav_gallery_2"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Развлечения" />
+        <item
+            android:id="@+id/nav_slideshow_2"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Семья и дети" />
+        <item
+            android:id="@+id/nav_manage_2"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Еда" />
+
+        <item
+            android:id="@+id/nav_camera_3"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Красота и здоровье" />
+        <item
+            android:id="@+id/nav_gallery_3"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Стиль жизни" />
+
+    </group>
+
+</menu>

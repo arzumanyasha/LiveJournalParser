@@ -5,46 +5,46 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_camera"
-            android:icon="@drawable/ic_menu_camera"
+            android:id="@+id/item1"
+            android:icon="@drawable/ic_list_black_24dp"
             android:title="20 лет ЖЖ" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
+            android:id="@+id/item2"
+            android:icon="@drawable/ic_list_black_24dp"
             android:title="Политика и общество" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:id="@+id/item3"
+            android:icon="@drawable/ic_list_black_24dp"
             android:title="Вокруг света" />
         <item
-            android:id="@+id/nav_manage"
-            android:icon="@drawable/ic_menu_manage"
+            android:id="@+id/item4"
+            android:icon="@drawable/ic_list_black_24dp"
             android:title="Кино" />
 
         <item
-            android:id="@+id/nav_camera_2"
-            android:icon="@drawable/ic_menu_camera"
+            android:id="@+id/item5"
+            android:icon="@drawable/ic_list_black_24dp"
             android:title="Наука и техника" />
         <item
-            android:id="@+id/nav_gallery_2"
-            android:icon="@drawable/ic_menu_gallery"
+            android:id="@+id/item6"
+            android:icon="@drawable/ic_list_black_24dp"
             android:title="Развлечения" />
         <item
-            android:id="@+id/nav_slideshow_2"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:id="@+id/item7"
+            android:icon="@drawable/ic_list_black_24dp"
             android:title="Семья и дети" />
         <item
-            android:id="@+id/nav_manage_2"
-            android:icon="@drawable/ic_menu_manage"
+            android:id="@+id/item8"
+            android:icon="@drawable/ic_list_black_24dp"
             android:title="Еда" />
 
         <item
-            android:id="@+id/nav_camera_3"
-            android:icon="@drawable/ic_menu_camera"
+            android:id="@+id/item9"
+            android:icon="@drawable/ic_list_black_24dp"
             android:title="Красота и здоровье" />
         <item
-            android:id="@+id/nav_gallery_3"
-            android:icon="@drawable/ic_menu_gallery"
+            android:id="@+id/item10"
+            android:icon="@drawable/ic_list_black_24dp"
             android:title="Стиль жизни" />
 
     </group>

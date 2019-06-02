@@ -8,6 +8,12 @@
     android:fitsSystemWindows="true"
     tools:openDrawer="start">
 
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        android:visibility="invisible" />
+
     <include
         layout="@layout/app_bar_main"
         android:layout_width="match_parent"

@@ -16,6 +16,7 @@ import java.util.ArrayList;
 public class ListAdapter extends ArrayAdapter<Post> {
 
     private final Activity context;
+    //список постов
     ArrayList<Post> posts;
 
     public ListAdapter(Activity context, ArrayList<Post> posts) {
@@ -25,6 +26,7 @@ public class ListAdapter extends ArrayAdapter<Post> {
         this.posts = posts;
     }
 
+    //установление контента в элементы ячеек
     public View getView(int position, View view, ViewGroup parent) {
         LayoutInflater inflater = context.getLayoutInflater();
         View rowView = inflater.inflate(R.layout.list_item, null, true);

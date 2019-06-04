@@ -6,6 +6,7 @@ public class Post {
     private String postImgUrl;
     private String link;
 
+    //класс модели поста
     public Post(String postName, String postDescription, String postImgUrl, String link) {
         this.postName = postName;
         this.postDescription = postDescription;
